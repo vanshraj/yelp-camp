@@ -10,3 +10,22 @@
 #deleteForm{
     display:inline;
 }
+.jumbotron.front{
+	background-image: url("https://unsplash.com/photos/h4bBVo_CpqQ/download");
+	background: fixed center center no-repeat;
+	background-size: cover;
+	margin:-20px auto;
+	color:white;
+	padding: 14%;
+	width: 100%;
+	text-align: center;
+	text-shadow: 0px 4px 5px rgba(0,0,0,0.6),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 16px 23px rgba(0,0,0,0.1);
+	transition: background-image 2s;
+	-webkit-transition: background-image 2s;
+	-moz-transition: background-image 2s;
+}
+.front hr{
+	width:400px;
+}
