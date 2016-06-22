@@ -11,6 +11,7 @@
     display:inline;
 }
 .jumbotron.front{
+	background-color: black;
 	background-image: url("https://unsplash.com/photos/h4bBVo_CpqQ/download");
 	background: fixed center center no-repeat;
 	background-size: cover;
